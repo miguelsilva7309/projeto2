@@ -58,6 +58,6 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar.png")
   } else {
     html.classList.add("light")
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/avatar.png")
   }
 }

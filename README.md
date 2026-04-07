@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido por Miguel para ensino de tecnologias W
 <br>
 
 <p align="center">
-  <img alt="Projeto Devlinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Devlinks" src="./.github/preview.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias

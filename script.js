@@ -55,9 +55,9 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     html.classList.remove("light")
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatar2.png")
   } else {
     html.classList.add("light")
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatar2.png")
   }
 }

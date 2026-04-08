@@ -48,6 +48,10 @@ body * {
 
 #profile img {
   width: 112px;
+  height: 112spx;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
 }
 
 #profile p {
